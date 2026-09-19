@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Vishal Mourya
 
-### Java Developer | Web Developer | DSA & AI Enthusiast
+### Java Developer • Web Developer • DSA • AI
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Learning+Core+Java+%26+Frameworks;Building+Web+Development+Projects;Exploring+Agentic+AI;Practicing+DSA+Every+Day;Improving+My+Logical+Thinking" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Learning+Java+%26+Spring+Boot;Building+Web+Development+Projects;Exploring+Agentic+AI;Practicing+DSA+Every+Day;Improving+My+Problem+Solving+Skills" />
 
 </div>
 
@@ -12,43 +12,54 @@
 
 ## 👨‍💻 About Me
 
-I'm **Vishal Mourya**, a developer who enjoys learning by building projects and solving problems.
+I'm **Vishal Mourya**, a developer focused on building a strong foundation in **Java, Web Development, Backend Development, Databases, DSA, and AI**.
+
+I enjoy learning new technologies, building practical projects, and continuously improving my programming and problem-solving skills.
 
 * ☕ Currently learning **Core Java & Java Frameworks**
-* 🌐 Learning **Web Development**
+* 🌐 Developing my skills in **Web Development**
 * 🎨 Working with **HTML, CSS & JavaScript**
-* 🟢 Learning backend technologies like **Node.js & Express.js**
-* 🌱 Exploring **Spring Boot** for backend development
-* 🤖 Currently learning **AI & Agentic AI**
-* 🧠 Practicing **DSA every day** to improve my logical thinking
-* 🏆 Interested in **Competitive Programming**
-* 💻 I also have basic knowledge of **C & C++**
-* 🚀 I build projects and upload them to GitHub to improve my development skills
-* 📚 Always learning something new and improving every day
+* 🟢 Learning **Node.js & Express.js**
+* ⚙️ Exploring **Spring Boot** for backend development
+* 🗄️ Learning and improving my knowledge of **MySQL & Databases**
+* 🤖 Exploring **Artificial Intelligence & Agentic AI**
+* 🧠 Practicing **DSA regularly** to improve logical and problem-solving skills
+* 🏆 Exploring **Competitive Programming**
+* 💻 Familiar with the basics of **C & C++**
+* 🚀 Building projects to strengthen my development skills
+* 📚 Continuously learning and improving
 
 ---
 
-## 🛠️ Technologies I'm Learning
+## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,c,cpp,javascript" />
+<img src="https://skillicons.dev/icons?i=java,javascript,c,cpp" />
 </p>
 
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
 </p>
 
-### 🧰 Tools
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+**Currently improving:** SQL, Database Design & MySQL
+
+### 🧰 Tools & Development Environment
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -56,48 +67,125 @@ I'm **Vishal Mourya**, a developer who enjoys learning by building projects and 
 
 ---
 
+## ☕ Java & Backend Development
+
+Currently building my foundation in the **Java ecosystem**.
+
+### Learning & Exploring
+
+* Core Java
+* Object-Oriented Programming
+* Collections Framework
+* Exception Handling
+* Java APIs
+* Java Frameworks
+* Spring Boot
+* REST APIs
+* Backend Development
+
+My goal is to develop a strong understanding of **Java-based backend development**.
+
+---
+
+## 🌐 Web Development
+
+I'm continuously improving my Web Development skills by building projects.
+
+### Frontend
+
+* HTML
+* CSS
+* JavaScript
+
+### Backend
+
+* Node.js
+* Express.js
+* Spring Boot
+
+I use projects as a way to understand concepts and gain practical development experience.
+
+---
+
+## 🗄️ Database & SQL
+
+I'm currently learning and improving my knowledge of **MySQL and databases**.
+
+### Areas I'm Working On
+
+* SQL Queries
+* Joins
+* Subqueries
+* Aggregate Functions
+* Window Functions
+* Database Design
+* Data Manipulation
+* Relational Databases
+
+---
+
 ## 🤖 AI & Agentic AI
 
-I'm currently exploring **Artificial Intelligence**, with a particular interest in **Agentic AI**.
+I'm currently exploring **Artificial Intelligence**, with a growing interest in **Agentic AI**.
 
-My focus is on understanding how AI systems can:
+I'm interested in understanding how AI systems can:
 
-* 🧠 Reason and solve problems
+* 🧠 Reason through problems
 * 🔧 Use tools
 * 🔄 Perform multi-step tasks
 * 🤝 Work as intelligent agents
-* 🚀 Automate real-world workflows
+* ⚡ Automate workflows
+* 🚀 Solve practical problems
+
+This is an area I'm actively learning and exploring.
 
 ---
 
-## 🧠 DSA & Competitive Programming
+## 🧠 Data Structures & Algorithms
 
-I practice **Data Structures & Algorithms every day** to improve my:
+I practice **DSA regularly** to strengthen my programming fundamentals and logical thinking.
 
-* Problem-solving skills
-* Logical thinking
-* Algorithmic thinking
-* Coding efficiency
-* Competitive programming skills
+### Focus Areas
 
-> **Consistency over perfection.**
+* Data Structures
+* Algorithms
+* Problem Solving
+* Time & Space Complexity
+* Competitive Programming
+
+> **Consistency, practice and problem solving.**
 
 ---
 
-## 🚀 My Projects
+## 🚀 Projects
 
-I build projects to improve my **Web Development and programming skills** and upload them to GitHub.
+I build projects to apply what I learn and improve my practical development skills.
 
-Some of my projects include:
+### 🎬 Netflix Clone
 
-* 🎬 **Netflix Clone**
-* 🐍 **Snake Game**
-* 📝 **UltraEdit Text Editor**
-* 🧩 **Maze Runner**
-* 🎨 **RGB Game**
-* ⚡ **EV Charging Project**
+A frontend project created to practice web development and UI implementation.
 
-👉 Check out all my projects in my repositories.
+### 🐍 Snake Game
+
+A classic game project built to practice programming logic and JavaScript concepts.
+
+### 📝 UltraEdit Text Editor
+
+A web-based project inspired by a text editor interface.
+
+### 🧩 Maze Runner
+
+A game project focused on logic building and interactive web development.
+
+### 🎨 RGB Game
+
+A color-based game created to practice JavaScript logic and DOM manipulation.
+
+### ⚡ EV Charging
+
+A project based around an electric vehicle charging concept.
+
+**More projects are available in my GitHub repositories.**
 
 ---
 
@@ -105,11 +193,9 @@ Some of my projects include:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vishal-Mourya2892007&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vishal-Mourya2892007&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Mourya2892007&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Mourya2892007&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -147,62 +233,57 @@ Some of my projects include:
 
 ## 🎯 Current Focus
 
-```text
-☕ Java
- ├── Core Java
- ├── OOP
- ├── Collections
- └── Java Frameworks
-
-🌐 Web Development
- ├── HTML
- ├── CSS
- ├── JavaScript
- ├── Node.js
- └── Express.js
-
-⚙️ Backend
- └── Spring Boot
-
-🤖 AI
- ├── Artificial Intelligence
- └── Agentic AI
-
-🧠 DSA
- ├── Data Structures
- ├── Algorithms
- ├── Problem Solving
- └── Competitive Programming
-```
-
----
-
-## 📚 Learning Philosophy
-
 <div align="center">
 
-### "Learn → Build → Practice → Improve → Repeat 🔁"
+| Area         | Currently Learning           |
+| ------------ | ---------------------------- |
+| ☕ Java       | Core Java & Frameworks       |
+| 🌐 Web       | HTML, CSS, JavaScript        |
+| 🟢 Backend   | Node.js & Express.js         |
+| ⚙️ Backend   | Spring Boot                  |
+| 🗄️ Database | MySQL & SQL                  |
+| 🧠 DSA       | Data Structures & Algorithms |
+| 🤖 AI        | AI & Agentic AI              |
+| 🏆 CP        | Competitive Programming      |
 
 </div>
 
-I believe that consistent practice and building real projects are the best ways to improve as a developer.
+---
+
+## 📚 Learning Approach
+
+```text
+Learn
+  ↓
+Understand
+  ↓
+Build Projects
+  ↓
+Practice DSA
+  ↓
+Solve Problems
+  ↓
+Improve
+  ↓
+Repeat 🔁
+```
+
+I believe consistent learning, practical projects, and regular problem solving are key to becoming a better developer.
 
 ---
 
-## 🌱 My Goal
+## 🌱 What's Next?
 
-My goal is to become a strong **Software Developer** with good knowledge of:
+I'm continuously working towards becoming a strong **Software Developer** with a solid foundation in:
 
-**Java + Backend Development + Web Development + DSA + AI**
-
-and continuously improve my problem-solving and development skills.
+**Java • Backend Development • Web Development • Databases • DSA • AI**
 
 ---
 
 <div align="center">
 
-## 💙 Thanks for visiting my profile!
+### 💙 Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=Vishal-Mourya2892007&style=for-the-badge&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=Vishal-Mourya2892007&style=for-the-badge" />
 
 </div>
