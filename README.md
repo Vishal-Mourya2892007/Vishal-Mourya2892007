@@ -57,7 +57,6 @@ I enjoy learning new technologies, building practical projects, and continuously
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-**Currently improving:** SQL, Database Design & MySQL
 
 ### 🧰 Tools & Development Environment
 
