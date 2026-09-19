@@ -48,6 +48,8 @@ MySQL Workbench • DBeaver • Antigravity
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 <p align="center">
 
 <a href="https://github.com/Vishal-Mourya2892007/Snake-game">
@@ -68,6 +70,10 @@ MySQL Workbench • DBeaver • Antigravity
 
 <a href="https://github.com/Vishal-Mourya2892007/Netflix-Clone">
 <img src="https://img.shields.io/badge/🎬%20Netflix%20Clone-Web-181717?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/Vishal-Mourya2892007/Spotify-Clone">
+<img src="https://img.shields.io/badge/🎵%20Spotify%20Clone-Web-181717?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/Vishal-Mourya2892007/EV_CHARGING">
