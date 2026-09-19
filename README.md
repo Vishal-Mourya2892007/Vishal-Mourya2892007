@@ -57,16 +57,6 @@ I enjoy learning by building projects and using each project as an opportunity t
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-Currently improving:
-
-* SQL
-* MySQL
-* Relational Database Concepts
-* Database Design
-* Query Optimization
-
----
-
 ## 🧰 Tools & Development Environment
 
 <p>
