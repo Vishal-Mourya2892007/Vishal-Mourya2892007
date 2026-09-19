@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Vishal Mourya
 
-### Java Developer • Web Developer • DSA • AI
+### Java Developer • Web Developer • DSA & AI Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Learning+Java+%26+Spring+Boot;Building+Web+Development+Projects;Exploring+Agentic+AI;Practicing+DSA+Every+Day;Improving+My+Problem+Solving+Skills" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&vCenter=true&width=720&lines=Learning+Core+Java+%26+Spring+Boot;Building+Web+Development+Projects;Exploring+Backend+Development;Learning+Agentic+AI;Practicing+DSA+Every+Day;Improving+My+Problem+Solving+Skills" />
 
 </div>
 
@@ -12,22 +12,22 @@
 
 ## 👨‍💻 About Me
 
-I'm **Vishal Mourya**, a developer focused on building a strong foundation in **Java, Web Development, Backend Development, Databases, DSA, and AI**.
+Hi! I'm **Vishal Mourya**, a developer focused on building a strong foundation in **Java, Web Development, Backend Development, Databases, DSA, and AI**.
 
-I enjoy learning new technologies, building practical projects, and continuously improving my programming and problem-solving skills.
+I enjoy learning by building projects and using each project as an opportunity to improve my technical and problem-solving skills.
 
 * ☕ Currently learning **Core Java & Java Frameworks**
-* 🌐 Developing my skills in **Web Development**
+* 🌐 Improving my **Web Development** skills
 * 🎨 Working with **HTML, CSS & JavaScript**
 * 🟢 Learning **Node.js & Express.js**
-* ⚙️ Exploring **Spring Boot** for backend development
+* ⚙️ Learning **Spring Boot** for backend development
 * 🗄️ Learning and improving my knowledge of **MySQL & Databases**
 * 🤖 Exploring **Artificial Intelligence & Agentic AI**
-* 🧠 Practicing **DSA regularly** to improve logical and problem-solving skills
-* 🏆 Exploring **Competitive Programming**
-* 💻 Familiar with the basics of **C & C++**
-* 🚀 Building projects to strengthen my development skills
-* 📚 Continuously learning and improving
+* 🧠 Practicing **DSA regularly** to improve logical thinking and problem solving
+* 🏆 Working towards improving my **Competitive Programming** skills
+* 💻 Familiar with **C & C++**
+* 🚀 Building projects to apply what I learn
+* 📚 Continuously improving through consistent practice
 
 ---
 
@@ -42,38 +42,173 @@ I enjoy learning new technologies, building practical projects, and continuously
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express" />
 </p>
 
 ### ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
 </p>
 
-### 🗄️ Database
+### 🗄️ Database & SQL
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
+Currently improving:
 
-### 🧰 Tools & Development Environment
+* SQL
+* MySQL
+* Relational Database Concepts
+* Database Design
+* Query Optimization
+
+---
+
+## 🧰 Tools & Development Environment
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
 </p>
+
+### Other Tools
+
+* 🐬 MySQL Workbench
+* 🗄️ DBeaver
+* 🔧 Postman
+* 💡 IntelliJ IDEA
+* 💻 Visual Studio Code
+* 🌐 Git & GitHub
+* 🤖 Antigravity
+
+---
+
+## 🚀 Featured Projects
+
+I build projects mainly to **learn, practice, and improve my development skills**.
+
+### 🐍 Snake Game — Java
+
+A Snake Game built using **Java**.
+
+I developed this project to strengthen my understanding of:
+
+* Object-Oriented Programming
+* Collections Framework
+* Java fundamentals
+* Programming logic
+* Problem solving
+
+🔗 **Repository:** [Snake-game](https://github.com/Vishal-Mourya2892007/Snake-game)
+
+---
+
+### 🎨 RGB Game — Java
+
+An RGB-based game built using **Java**.
+
+This project helped me practice:
+
+* Java fundamentals
+* OOP concepts
+* Collections
+* Logical thinking
+* Game logic
+
+🔗 **Repository:** [RBG_GAME](https://github.com/Vishal-Mourya2892007/RBG_GAME)
+
+---
+
+### 🧩 Maze Runner — Java
+
+A Java-based maze project created to improve:
+
+* Programming logic
+* Problem solving
+* Java fundamentals
+* Object-Oriented Programming
+
+🔗 **Repository:** [Maze_runner](https://github.com/Vishal-Mourya2892007/Maze_runner)
+
+---
+
+### 📝 UltraEdit Text Editor — HTML & CSS
+
+A web-development project created to improve my understanding of:
+
+* HTML
+* CSS
+* Layout
+* Responsive design
+* UI implementation
+
+🔗 **Repository:** [UltraEdit-Text-editor](https://github.com/Vishal-Mourya2892007/UltraEdit-Text-editor)
+
+---
+
+### 🎬 Netflix Clone — Web Development
+
+A Netflix-inspired frontend project built to improve my:
+
+* HTML
+* CSS
+* Web design
+* UI implementation
+* Frontend development skills
+
+🔗 **Repository:** [Netflix-Clone](https://github.com/Vishal-Mourya2892007/Netflix-Clone)
+
+---
+
+### ⚡ EV Charging — JavaScript
+
+A web-development project built to practice:
+
+* JavaScript
+* DOM manipulation
+* Web development
+* Programming logic
+
+🔗 **Repository:** [EV_CHARGING](https://github.com/Vishal-Mourya2892007/EV_CHARGING)
+
+---
+
+## 🎯 Why I Build Projects
+
+I don't build projects only to add them to my GitHub.
+
+I use projects as a way to **learn by doing**.
+
+```text
+Learn a Concept
+      ↓
+Build a Project
+      ↓
+Face Problems
+      ↓
+Debug & Understand
+      ↓
+Improve My Skills
+      ↓
+Build Something Better
+```
+
+My projects cover different areas because I'm currently exploring and strengthening my skills in:
+
+**Web Development • Java • Backend • Databases • DSA • AI**
 
 ---
 
 ## ☕ Java & Backend Development
 
-Currently building my foundation in the **Java ecosystem**.
+Currently focusing on building a strong foundation in the Java ecosystem.
 
-### Learning & Exploring
+### Learning
 
 * Core Java
-* Object-Oriented Programming
+* OOP
 * Collections Framework
 * Exception Handling
 * Java APIs
@@ -82,13 +217,11 @@ Currently building my foundation in the **Java ecosystem**.
 * REST APIs
 * Backend Development
 
-My goal is to develop a strong understanding of **Java-based backend development**.
-
 ---
 
 ## 🌐 Web Development
 
-I'm continuously improving my Web Development skills by building projects.
+I'm continuously improving my Web Development skills through practical projects.
 
 ### Frontend
 
@@ -102,15 +235,13 @@ I'm continuously improving my Web Development skills by building projects.
 * Express.js
 * Spring Boot
 
-I use projects as a way to understand concepts and gain practical development experience.
-
 ---
 
 ## 🗄️ Database & SQL
 
-I'm currently learning and improving my knowledge of **MySQL and databases**.
+I'm currently learning and improving my knowledge of **MySQL and relational databases**.
 
-### Areas I'm Working On
+### Focus Areas
 
 * SQL Queries
 * Joins
@@ -119,30 +250,17 @@ I'm currently learning and improving my knowledge of **MySQL and databases**.
 * Window Functions
 * Database Design
 * Data Manipulation
-* Relational Databases
+* Relational Database Concepts
 
----
+Tools I use while learning:
 
-## 🤖 AI & Agentic AI
-
-I'm currently exploring **Artificial Intelligence**, with a growing interest in **Agentic AI**.
-
-I'm interested in understanding how AI systems can:
-
-* 🧠 Reason through problems
-* 🔧 Use tools
-* 🔄 Perform multi-step tasks
-* 🤝 Work as intelligent agents
-* ⚡ Automate workflows
-* 🚀 Solve practical problems
-
-This is an area I'm actively learning and exploring.
+**MySQL Workbench • DBeaver**
 
 ---
 
 ## 🧠 Data Structures & Algorithms
 
-I practice **DSA regularly** to strengthen my programming fundamentals and logical thinking.
+I practice **DSA regularly** to improve my logical thinking, problem-solving ability, and competitive programming skills.
 
 ### Focus Areas
 
@@ -152,39 +270,24 @@ I practice **DSA regularly** to strengthen my programming fundamentals and logic
 * Time & Space Complexity
 * Competitive Programming
 
-> **Consistency, practice and problem solving.**
+> Consistency + Practice + Problem Solving 🚀
 
 ---
 
-## 🚀 Projects
+## 🤖 AI & Agentic AI
 
-I build projects to apply what I learn and improve my practical development skills.
+I'm currently exploring **Artificial Intelligence**, especially **Agentic AI**.
 
-### 🎬 Netflix Clone
+I'm interested in learning how AI systems can:
 
-A frontend project created to practice web development and UI implementation.
+* 🧠 Reason through problems
+* 🔧 Use tools
+* 🔄 Perform multi-step tasks
+* 🤝 Work as intelligent agents
+* ⚡ Automate workflows
+* 🚀 Solve practical problems
 
-### 🐍 Snake Game
-
-A classic game project built to practice programming logic and JavaScript concepts.
-
-### 📝 UltraEdit Text Editor
-
-A web-based project inspired by a text editor interface.
-
-### 🧩 Maze Runner
-
-A game project focused on logic building and interactive web development.
-
-### 🎨 RGB Game
-
-A color-based game created to practice JavaScript logic and DOM manipulation.
-
-### ⚡ EV Charging
-
-A project based around an electric vehicle charging concept.
-
-**More projects are available in my GitHub repositories.**
+This is an area I'm actively learning and exploring.
 
 ---
 
@@ -232,50 +335,38 @@ A project based around an electric vehicle charging concept.
 
 ## 🎯 Current Focus
 
-<div align="center">
-
-| Area         | Currently Learning           |
+| Area         | Focus                        |
 | ------------ | ---------------------------- |
 | ☕ Java       | Core Java & Frameworks       |
-| 🌐 Web       | HTML, CSS, JavaScript        |
-| 🟢 Backend   | Node.js & Express.js         |
 | ⚙️ Backend   | Spring Boot                  |
+| 🟢 Backend   | Node.js & Express.js         |
+| 🌐 Web       | HTML, CSS & JavaScript       |
 | 🗄️ Database | MySQL & SQL                  |
 | 🧠 DSA       | Data Structures & Algorithms |
-| 🤖 AI        | AI & Agentic AI              |
 | 🏆 CP        | Competitive Programming      |
+| 🤖 AI        | AI & Agentic AI              |
+
+---
+
+## 📚 My Learning Philosophy
+
+<div align="center">
+
+### Learn → Build → Practice → Debug → Improve → Repeat 🔁
 
 </div>
 
----
-
-## 📚 Learning Approach
-
-```text
-Learn
-  ↓
-Understand
-  ↓
-Build Projects
-  ↓
-Practice DSA
-  ↓
-Solve Problems
-  ↓
-Improve
-  ↓
-Repeat 🔁
-```
-
-I believe consistent learning, practical projects, and regular problem solving are key to becoming a better developer.
+I believe that the best way to improve as a developer is to **keep learning, build real projects, solve problems, and continuously improve**.
 
 ---
 
-## 🌱 What's Next?
+## 🌱 Long-Term Goal
 
-I'm continuously working towards becoming a strong **Software Developer** with a solid foundation in:
+My goal is to become a strong **Software Developer** with solid skills in:
 
 **Java • Backend Development • Web Development • Databases • DSA • AI**
+
+while continuously improving my problem-solving and software development abilities.
 
 ---
 
