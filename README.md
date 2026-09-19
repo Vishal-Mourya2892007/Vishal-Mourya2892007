@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Vishal Mourya
 
-### 💻 Web Developer | Java | DSA
+### Java Developer | Web Developer | DSA & AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Developer;Java+%26+DSA+Learner;Building+Projects;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Learning+Core+Java+%26+Frameworks;Building+Web+Development+Projects;Exploring+Agentic+AI;Practicing+DSA+Every+Day;Improving+My+Logical+Thinking" />
 
 </div>
 
@@ -12,49 +12,92 @@
 
 ## 👨‍💻 About Me
 
-* 🔭 I'm currently working on Web Development projects
-* 🌱 I'm learning **Java, DSA & SQL**
-* 💻 I enjoy building practical projects
-* 🎯 My goal is to become a skilled Software Developer
-* 🚀 I believe in learning by building
+I'm **Vishal Mourya**, a developer who enjoys learning by building projects and solving problems.
+
+* ☕ Currently learning **Core Java & Java Frameworks**
+* 🌐 Learning **Web Development**
+* 🎨 Working with **HTML, CSS & JavaScript**
+* 🟢 Learning backend technologies like **Node.js & Express.js**
+* 🌱 Exploring **Spring Boot** for backend development
+* 🤖 Currently learning **AI & Agentic AI**
+* 🧠 Practicing **DSA every day** to improve my logical thinking
+* 🏆 Interested in **Competitive Programming**
+* 💻 I also have basic knowledge of **C & C++**
+* 🚀 I build projects and upload them to GitHub to improve my development skills
+* 📚 Always learning something new and improving every day
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies I'm Learning
 
-<div align="center">
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,java,mysql,git,github,vscode" />
+<p>
+<img src="https://skillicons.dev/icons?i=java,c,cpp,javascript" />
+</p>
 
-</div>
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
+</p>
+
+### 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🤖 AI & Agentic AI
 
-### 🎬 Netflix Clone
+I'm currently exploring **Artificial Intelligence**, with a particular interest in **Agentic AI**.
 
-A Netflix-inspired frontend project built to practice responsive web development.
+My focus is on understanding how AI systems can:
 
-### 🐍 Snake Game
+* 🧠 Reason and solve problems
+* 🔧 Use tools
+* 🔄 Perform multi-step tasks
+* 🤝 Work as intelligent agents
+* 🚀 Automate real-world workflows
 
-A classic Snake Game project built using web technologies.
+---
 
-### 📝 UltraEdit Text Editor
+## 🧠 DSA & Competitive Programming
 
-A text-editor inspired web project.
+I practice **Data Structures & Algorithms every day** to improve my:
 
-### 🧩 Maze Runner
+* Problem-solving skills
+* Logical thinking
+* Algorithmic thinking
+* Coding efficiency
+* Competitive programming skills
 
-A maze-based game project created to practice JavaScript logic.
+> **Consistency over perfection.**
 
-### 🎨 RGB Game
+---
 
-An RGB color guessing game built to improve JavaScript fundamentals.
+## 🚀 My Projects
 
-### ⚡ EV Charging
+I build projects to improve my **Web Development and programming skills** and upload them to GitHub.
 
-A web project based around electric vehicle charging.
+Some of my projects include:
+
+* 🎬 **Netflix Clone**
+* 🐍 **Snake Game**
+* 📝 **UltraEdit Text Editor**
+* 🧩 **Maze Runner**
+* 🎨 **RGB Game**
+* ⚡ **EV Charging Project**
+
+👉 Check out all my projects in my repositories.
 
 ---
 
@@ -64,7 +107,7 @@ A web project based around electric vehicle charging.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Vishal-Mourya2892007&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Mourya2892007&layout=compact&theme=tokyonight&hide_border=true" />
 
@@ -92,7 +135,7 @@ A web project based around electric vehicle charging.
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -102,54 +145,64 @@ A web project based around electric vehicle charging.
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Vishal-Mourya2892007/Vishal-Mourya2892007/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 ```text
-Java
+☕ Java
+ ├── Core Java
  ├── OOP
  ├── Collections
- ├── DSA
- └── Problem Solving
+ └── Java Frameworks
 
-Web Development
+🌐 Web Development
  ├── HTML
  ├── CSS
  ├── JavaScript
- ├── Tailwind CSS
- └── React
+ ├── Node.js
+ └── Express.js
 
-Database
- └── MySQL
+⚙️ Backend
+ └── Spring Boot
+
+🤖 AI
+ ├── Artificial Intelligence
+ └── Agentic AI
+
+🧠 DSA
+ ├── Data Structures
+ ├── Algorithms
+ ├── Problem Solving
+ └── Competitive Programming
 ```
 
 ---
 
-## 🌐 Connect With Me
+## 📚 Learning Philosophy
 
 <div align="center">
 
-<a href="https://github.com/Vishal-Mourya2892007">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+### "Learn → Build → Practice → Improve → Repeat 🔁"
 
 </div>
+
+I believe that consistent practice and building real projects are the best ways to improve as a developer.
+
+---
+
+## 🌱 My Goal
+
+My goal is to become a strong **Software Developer** with good knowledge of:
+
+**Java + Backend Development + Web Development + DSA + AI**
+
+and continuously improve my problem-solving and development skills.
 
 ---
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+## 💙 Thanks for visiting my profile!
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vishal-Mourya2892007\&color=blue\&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=Vishal-Mourya2892007&style=for-the-badge&color=blue" />
 
 </div>
