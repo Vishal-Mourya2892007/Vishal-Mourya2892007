@@ -4,7 +4,7 @@
 
 ### Java Developer • Web Developer • DSA & AI Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&vCenter=true&width=720&lines=Learning+Core+Java+%26+Spring+Boot;Building+Web+Development+Projects;Exploring+Backend+Development;Learning+Agentic+AI;Practicing+DSA+Every+Day;Improving+My+Problem+Solving+Skills" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&vCenter=true&width=720&lines=Learning+Core+Java+%26+Spring+Boot;Building+Web+Development+Projects;Exploring+Backend+Development;Learning+Agentic+AI;Practicing+DSA+Every+Day;Improving+My+Problem+Solving+Skills" alt="Typing SVG" />
 
 </div>
 
@@ -12,22 +12,15 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Vishal Mourya**, a developer focused on building a strong foundation in **Java, Web Development, Backend Development, Databases, DSA, and AI**.
-
-I enjoy learning by building projects and using each project as an opportunity to improve my technical and problem-solving skills.
-
-* ☕ Currently learning **Core Java & Java Frameworks**
-* 🌐 Improving my **Web Development** skills
-* 🎨 Working with **HTML, CSS & JavaScript**
-* 🟢 Learning **Node.js & Express.js**
-* ⚙️ Learning **Spring Boot** for backend development
-* 🗄️ Learning and improving my knowledge of **MySQL & Databases**
-* 🤖 Exploring **Artificial Intelligence & Agentic AI**
-* 🧠 Practicing **DSA regularly** to improve logical thinking and problem solving
-* 🏆 Working towards improving my **Competitive Programming** skills
-* 💻 Familiar with **C & C++**
-* 🚀 Building projects to apply what I learn
-* 📚 Continuously improving through consistent practice
+* ☕ Currently learning **Core Java** and Java frameworks
+* 🌱 Exploring **Spring Boot** and backend development
+* 🌐 Building projects using **HTML, CSS, JavaScript, Node.js and Express**
+* 🗄️ Learning **MySQL and database concepts**
+* 🤖 Exploring **AI, especially Agentic AI**
+* 🧠 Practicing **DSA every day** to improve logical thinking and problem-solving
+* 💻 Building projects mainly to **learn, practice and improve my development skills**
+* 🔧 Familiar with **C & C++**
+* 🚀 Always learning, building, debugging and improving
 
 ---
 
@@ -45,344 +38,394 @@ I enjoy learning by building projects and using each project as an opportunity t
 <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express" />
 </p>
 
-### ⚙️ Backend Development
+### ☕ Java & Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
 </p>
 
-### 🗄️ Database & SQL
+### 🗄️ Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-## 🧰 Tools & Development Environment
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
-</p>
-
-### Other Tools
-
-* 🐬 MySQL Workbench
-* 🗄️ DBeaver
-* 🔧 Postman
-* 💡 IntelliJ IDEA
-* 💻 Visual Studio Code
-* 🌐 Git & GitHub
-* 🤖 Antigravity
-
----
-
-## 🚀 Featured Projects
-
-I build projects mainly to **learn, practice, and improve my development skills**.
-
-### 🐍 Snake Game — Java
-
-A Snake Game built using **Java**.
-
-I developed this project to strengthen my understanding of:
-
-* Object-Oriented Programming
-* Collections Framework
-* Java fundamentals
-* Programming logic
-* Problem solving
-
-🔗 **Repository:** [Snake-game](https://github.com/Vishal-Mourya2892007/Snake-game)
-
----
-
-### 🎨 RGB Game — Java
-
-An RGB-based game built using **Java**.
-
-This project helped me practice:
-
-* Java fundamentals
-* OOP concepts
-* Collections
-* Logical thinking
-* Game logic
-
-🔗 **Repository:** [RBG_GAME](https://github.com/Vishal-Mourya2892007/RBG_GAME)
-
----
-
-### 🧩 Maze Runner — Java
-
-A Java-based maze project created to improve:
-
-* Programming logic
-* Problem solving
-* Java fundamentals
-* Object-Oriented Programming
-
-🔗 **Repository:** [Maze_runner](https://github.com/Vishal-Mourya2892007/Maze_runner)
-
----
-
-### 📝 UltraEdit Text Editor — HTML & CSS
-
-A web-development project created to improve my understanding of:
-
-* HTML
-* CSS
-* Layout
-* Responsive design
-* UI implementation
-
-🔗 **Repository:** [UltraEdit-Text-editor](https://github.com/Vishal-Mourya2892007/UltraEdit-Text-editor)
-
----
-
-### 🎬 Netflix Clone — Web Development
-
-A Netflix-inspired frontend project built to improve my:
-
-* HTML
-* CSS
-* Web design
-* UI implementation
-* Frontend development skills
-
-🔗 **Repository:** [Netflix-Clone](https://github.com/Vishal-Mourya2892007/Netflix-Clone)
-
----
-
-### ⚡ EV Charging — JavaScript
-
-A web-development project built to practice:
-
-* JavaScript
-* DOM manipulation
-* Web development
-* Programming logic
-
-🔗 **Repository:** [EV_CHARGING](https://github.com/Vishal-Mourya2892007/EV_CHARGING)
-
----
-
-## 🎯 Why I Build Projects
-
-I don't build projects only to add them to my GitHub.
-
-I use projects as a way to **learn by doing**.
-
-```text
-Learn a Concept
-      ↓
-Build a Project
-      ↓
-Face Problems
-      ↓
-Debug & Understand
-      ↓
-Improve My Skills
-      ↓
-Build Something Better
-```
-
-My projects cover different areas because I'm currently exploring and strengthening my skills in:
-
-**Web Development • Java • Backend • Databases • DSA • AI**
-
 ---
 
 ## ☕ Java & Backend Development
 
-Currently focusing on building a strong foundation in the Java ecosystem.
-
-### Learning
+Currently focusing on:
 
 * Core Java
-* OOP
+* Object-Oriented Programming
 * Collections Framework
 * Exception Handling
-* Java APIs
-* Java Frameworks
+* File Handling
+* Java fundamentals
 * Spring Boot
 * REST APIs
-* Backend Development
+* Backend development
+
+I build Java projects to strengthen my understanding of **OOP, Collections, problem-solving and backend concepts**.
 
 ---
 
 ## 🌐 Web Development
 
-I'm continuously improving my Web Development skills through practical projects.
-
-### Frontend
+Currently working with:
 
 * HTML
 * CSS
 * JavaScript
-
-### Backend
-
 * Node.js
 * Express.js
-* Spring Boot
+* Responsive layouts
+* DOM manipulation
+* Frontend fundamentals
+* Backend fundamentals
+
+My web projects are mainly built to improve my **frontend, JavaScript and backend development skills**.
 
 ---
 
 ## 🗄️ Database & SQL
 
-I'm currently learning and improving my knowledge of **MySQL and relational databases**.
+Currently learning and improving:
 
-### Focus Areas
-
-* SQL Queries
+* MySQL
+* SQL
 * Joins
 * Subqueries
 * Aggregate Functions
 * Window Functions
 * Database Design
-* Data Manipulation
 * Relational Database Concepts
-
-Tools I use while learning:
-
-**MySQL Workbench • DBeaver**
-
----
-
-## 🧠 Data Structures & Algorithms
-
-I practice **DSA regularly** to improve my logical thinking, problem-solving ability, and competitive programming skills.
-
-### Focus Areas
-
-* Data Structures
-* Algorithms
-* Problem Solving
-* Time & Space Complexity
-* Competitive Programming
-
-> Consistency + Practice + Problem Solving 🚀
 
 ---
 
 ## 🤖 AI & Agentic AI
 
-I'm currently exploring **Artificial Intelligence**, especially **Agentic AI**.
+Currently exploring:
 
-I'm interested in learning how AI systems can:
+* Artificial Intelligence
+* AI fundamentals
+* Agentic AI
+* AI-powered applications
+* How AI agents work
+* AI + software development
 
-* 🧠 Reason through problems
-* 🔧 Use tools
-* 🔄 Perform multi-step tasks
-* 🤝 Work as intelligent agents
-* ⚡ Automate workflows
-* 🚀 Solve practical problems
+---
 
-This is an area I'm actively learning and exploring.
+## 🧠 Data Structures & Algorithms
+
+I practice DSA regularly to improve:
+
+* Logical thinking
+* Problem-solving
+* Algorithmic thinking
+* Competitive programming skills
+* Coding efficiency
+
+Currently practicing topics such as:
+
+* Arrays
+* Strings
+* Linked Lists
+* Stack & Queue
+* Recursion
+* Trees
+* Graphs
+* Dynamic Programming
+* Sliding Window
+* Two Pointers
+* Hashing
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🐍 Snake Game
+
+A Java-based Snake Game built mainly to improve my understanding of:
+
+* Core Java
+* OOP
+* Collections Framework
+* Game logic
+* Problem solving
+
+<a href="https://github.com/Vishal-Mourya2892007/Snake-game">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌈 RGB Game
+
+A Java-based RGB Game created while improving:
+
+* Core Java
+* OOP concepts
+* Collections
+* Game logic
+* Logical thinking
+
+<a href="https://github.com/Vishal-Mourya2892007/RBG_GAME">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧩 Maze Runner
+
+A Java project focused on improving:
+
+* Java fundamentals
+* OOP
+* Logical thinking
+* Problem solving
+* Game logic
+
+<a href="https://github.com/Vishal-Mourya2892007/Maze_runner">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎨 UltraEdit Text Editor
+
+A web design project built to improve:
+
+* HTML
+* CSS
+* Layout
+* UI implementation
+* Web development fundamentals
+
+<a href="https://github.com/Vishal-Mourya2892007/UltraEdit-Text-editor">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎬 Netflix Clone
+
+A frontend project created to practice:
+
+* HTML
+* CSS
+* Web design
+* UI implementation
+* Frontend development
+
+<a href="https://github.com/Vishal-Mourya2892007/Netflix-Clone">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ EV Charging
+
+A JavaScript project created to improve:
+
+* JavaScript
+* DOM
+* Web development
+* Logic building
+* Frontend fundamentals
+
+<a href="https://github.com/Vishal-Mourya2892007/EV_CHARGING">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 💡 Why I Build Projects
+
+I don't build projects only to showcase them.
+
+My main purpose is to **learn by building**.
+
+```text
+Learn
+  ↓
+Build
+  ↓
+Face Problems
+  ↓
+Debug & Understand
+  ↓
+Improve
+  ↓
+Build Something Better
+```
+
+Every project helps me understand concepts more practically.
+
+---
+
+## 🧰 Tools & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+
+</p>
+
+### Tools I Use
+
+* IntelliJ IDEA
+* VS Code
+* MySQL Workbench
+* DBeaver
+* Postman
+* Git
+* GitHub
+* Antigravity
+
+---
+
+## 🔗 Coding & Professional Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Vishal_282007/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://www.codechef.com/users/maoilfhq">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/vishal-mourya-4658a1382/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://codolio.com/profile/Pheonix_">
+<img src="https://img.shields.io/badge/Codolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://github.com/Vishal-Mourya2892007">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vishal-Mourya2892007&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Vishal-Mourya2892007&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Mourya2892007&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Mourya2892007&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 
-</div>
+</p>
 
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Vishal-Mourya2892007&theme=tokyonight&hide_border=true" />
 
-</div>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Vishal-Mourya2892007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 
-</div>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img
+src="https://raw.githubusercontent.com/Vishal-Mourya2892007/Vishal-Mourya2892007/output/github-contribution-grid-snake.svg"
+alt="GitHub Contribution Snake"
+/>
+
+</p>
 
 ---
 
 ## 📈 Contribution Activity
 
-<div align="center">
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-Mourya2892007&theme=tokyo-night&hide_border=true" />
 
-</div>
+</p>
 
 ---
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Vishal-Mourya2892007/Vishal-Mourya2892007/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Vishal-Mourya2892007/Vishal-Mourya2892007/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/Vishal-Mourya2892007/Vishal-Mourya2892007/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
-</p>
 
 ## 🎯 Current Focus
 
-| Area         | Focus                        |
-| ------------ | ---------------------------- |
-| ☕ Java       | Core Java & Frameworks       |
-| ⚙️ Backend   | Spring Boot                  |
-| 🟢 Backend   | Node.js & Express.js         |
-| 🌐 Web       | HTML, CSS & JavaScript       |
-| 🗄️ Database | MySQL & SQL                  |
-| 🧠 DSA       | Data Structures & Algorithms |
-| 🏆 CP        | Competitive Programming      |
-| 🤖 AI        | AI & Agentic AI              |
+| Area         | Currently Learning                        |
+| ------------ | ----------------------------------------- |
+| ☕ Java       | Core Java, OOP, Collections               |
+| 🚀 Backend   | Spring Boot, REST APIs                    |
+| 🌐 Web       | JavaScript, Node.js, Express              |
+| 🗄️ Database | MySQL, SQL, Database Concepts             |
+| 🤖 AI        | AI & Agentic AI                           |
+| 🧠 DSA       | Problem Solving & Competitive Programming |
 
 ---
 
-## 📚 My Learning Philosophy
+## 📚 Learning Philosophy
 
-<div align="center">
+> Learn the concept → Build something → Face problems → Debug → Understand → Improve.
 
-### Learn → Build → Practice → Debug → Improve → Repeat 🔁
-
-</div>
-
-I believe that the best way to improve as a developer is to **keep learning, build real projects, solve problems, and continuously improve**.
+I believe consistent practice and building projects are the best ways to improve as a developer.
 
 ---
 
-## 🌱 Long-Term Goal
+## 🚀 Long-Term Goal
 
-My goal is to become a strong **Software Developer** with solid skills in:
+To become a strong software developer with solid foundations in:
 
-**Java • Backend Development • Web Development • Databases • DSA • AI**
+**Java • Backend Development • Web Development • DSA • Databases • AI**
 
-while continuously improving my problem-solving and software development abilities.
+while continuously learning and building practical projects.
 
 ---
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
 <img src="https://komarev.com/ghpvc/?username=Vishal-Mourya2892007&style=for-the-badge" />
 
