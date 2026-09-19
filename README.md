@@ -48,8 +48,6 @@ MySQL Workbench • DBeaver • Antigravity
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 <p align="center">
 
 <a href="https://github.com/Vishal-Mourya2892007/Snake-game">
@@ -131,10 +129,11 @@ MySQL Workbench • DBeaver • Antigravity
 <p align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Vishal-Mourya2892007/Vishal-Mourya2892007/output/github-contribution-grid-snake-dark.svg"
-  />
+
+<source
+ media="(prefers-color-scheme: dark)"
+ srcset="https://raw.githubusercontent.com/Vishal-Mourya2892007/Vishal-Mourya2892007/output/github-contribution-grid-snake-dark.svg"
+/>
 
 <source
  media="(prefers-color-scheme: light)"
@@ -142,7 +141,7 @@ MySQL Workbench • DBeaver • Antigravity
 />
 
 <img
- src="https://raw.githubusercontent.com/Vishal-Mourya2892007/Vishal-Mourya2892007/output/github-contribution-grid-snake.svg"
+ src="https://raw.githubusercontent.com/Vishal-Mourya2892007/Vishal-Mourya2892007/output/github-contribution-grid-snake-dark.svg"
  alt="GitHub Contribution Snake"
 />
 
