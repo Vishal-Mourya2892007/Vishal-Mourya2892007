@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Vishal Mourya
 
-<!--
-**Vishal-Mourya2892007/Vishal-Mourya2892007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer  
+☕ Java & DSA Learner  
+🌐 HTML | CSS | JavaScript | Tailwind CSS  
+🗄️ MySQL | Git | GitHub
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Java and DSA
+- 💻 Building Web Development projects
+- 📚 Preparing for coding interviews
+- 🚀 Improving my development skills every day
+
+## 🛠️ Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- Tailwind CSS
+- Java
+- MySQL
+- Git & GitHub
+
+## 🚀 Projects
+
+- Netflix Clone
+- Twitter/X Clone
+- Snake Game
+- UltraEdit Text Editor
+- Maze Runner
+- EV Charging Project
+
+## 📫 Connect With Me
+
+- GitHub
+- LinkedIn
+- LeetCode
+- CodeChef
+- Codolio
