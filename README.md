@@ -1,40 +1,65 @@
 # Hi 👋, I'm Vishal Mourya
 
-💻 Web Developer  
-☕ Java & DSA Learner  
-🌐 HTML | CSS | JavaScript | Tailwind CSS  
-🗄️ MySQL | Git | GitHub
+### 💻 Web Developer | Java | DSA
 
-## 🚀 About Me
+I am a passionate developer who loves building projects and learning new technologies.
 
-- 🌱 Currently learning Java and DSA
+- 🌱 Currently learning Java & DSA
 - 💻 Building Web Development projects
-- 📚 Preparing for coding interviews
-- 🚀 Improving my development skills every day
+- 🗄️ Learning SQL & MySQL
+- 🚀 Improving my coding skills every day
+
+---
 
 ## 🛠️ Tech Stack
 
-- HTML
-- CSS
-- JavaScript
-- Tailwind CSS
-- Java
-- MySQL
-- Git & GitHub
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,java,mysql,git,github" />
+</p>
 
-## 🚀 Projects
+---
 
-- Netflix Clone
-- Twitter/X Clone
-- Snake Game
-- UltraEdit Text Editor
-- Maze Runner
-- EV Charging Project
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishal-Mourya2892007&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=Vishal-Mourya2892007&theme=tokyonight" />
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Mourya2892007&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 My Projects
+
+| Project | Description |
+|---|---|
+| 🐍 Snake Game | Classic Snake Game |
+| 🎬 Netflix Clone | Netflix UI Clone |
+| 📝 UltraEdit | Text Editor UI |
+| 🧩 Maze Runner | Maze Based Game |
+| 🎮 RGB Game | RGB Color Game |
+| ⚡ EV Charging | EV Charging Project |
+
+---
 
 ## 📫 Connect With Me
 
-- GitHub
-- LinkedIn
-- LeetCode
-- CodeChef
-- Codolio
+<p>
+  <a href="https://github.com/Vishal-Mourya2892007">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
